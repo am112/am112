@@ -7,8 +7,8 @@ Software Developer
 Amir is a full-stack software developer. Passion for learning new tech.
 
 *   🌍  I'm based in Kuala Lumpur
-*   🚀  I'm currently working on [Mytabika](http://mytabika.com)
-*   🧠  I'm learning Javascript & mobile(React Native)
+*   🚀  I'm currently working on [DKB App](https://dkb.terajuxchange.gov.my)
+*   🧠  I'm specialize in Laravel, Flutter, and learning new Framework and Tech.
 *   🤝  I'm open to collaborating on interesting projects.### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
