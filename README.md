@@ -7,7 +7,7 @@ Software Developer
 Amir is a full-stack software developer. Passion for learning new tech.
 
 *   🌍  I'm based in Kuala Lumpur / Lembah Klang
-*   🚀  I'm currently working on [Renew+](https://renewngo.compasia.com/renewngo)
+*   🚀  I'm currently working on [Renew+](https://renewngo.compasia.my/renewngo)
 *   🧠  I'm specialize in Laravel, React, Vue, NestJs (nodejs), Flutter, and enjoy learning new Framework and Tech.
 *   🤝  I'm open to collaborating on interesting projects.### Skills 
 <p align="left">
